@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567245176 source:d:\cppprojects\advanced_cpp\01_stl\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<array>
+	<set>
+	<map>
+	<unordered_set>
+	<unordered_map>
+	<iterator>
+	<algorithm>
+
